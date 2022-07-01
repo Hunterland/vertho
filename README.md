@@ -1,5 +1,5 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 >SITE VERTHO ELEVADORES</h1>
-<p>O projeto foi desenvolvido para prática de conceitos extraídos da plataforma alura voltada para os conceitos de desenvolvimento web</p>
+<p>O projeto foi desenvolvido para prática de conceitos extraídos da plataforma alura voltada para os conceitos de desenvolvimento web.</p>
 <h2 class="code-line" data-line-start=4 data-line-end=5 ><a id="Tech_4"></a>Tech</h2>
 <p class="has-line-data" data-line-start="6" data-line-end="7">Tecnologias que foram usadas:</p>
 <ul>
