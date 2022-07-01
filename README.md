@@ -1,4 +1,5 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 >VERTHO ELEVADORES</h1>
+<p>projeto com base nos estudos da plataforma alura , foi desenvolvido para afins de práticas com a ferramenta bootstrap</p>
 <h2 class="code-line" data-line-start=4 data-line-end=5 ><a id="Tech_4"></a>Tech</h2>
 <p class="has-line-data" data-line-start="6" data-line-end="7">Tecnologias que foram usadas:</p>
 <ul>
