@@ -6,11 +6,11 @@
 <h1>HTML</h1>
 - código documentado<br>
 - tags semânticas
-<li class="has-line-data" data-line-start="9" data-line-end="10">CSS</li>
+<h1>CSS</h1>
 - media query para responsivo
-<li class="has-line-data" data-line-start="10" data-line-end="12">JAVASCRIPT</li>
+<h1>Javascript</h1>
 - jquery
-<li class="has-line-data" data-line-start="10" data-line-end="12">BOOTSTRAP 4</li>
+<h1>BOOTSTRAP 4</h1>
 - containers<br>
 - cards<br>
 - navbar<br>
