@@ -4,18 +4,18 @@
 <p class="has-line-data" data-line-start="6" data-line-end="7">Tecnologias que foram usadas:</p>
 <ul>
 <li class="has-line-data" data-line-start="8" data-line-end="9">HTML</li>
-- código documentado
+- código documentado<br>
 - tags semânticas
 <li class="has-line-data" data-line-start="9" data-line-end="10">CSS</li>
 - media query para responsivo
 <li class="has-line-data" data-line-start="10" data-line-end="12">JAVASCRIPT</li>
 - jquery
 <li class="has-line-data" data-line-start="10" data-line-end="12">BOOTSTRAP 4</li>
-- containers
-- cards
-- navbar
-- caroulsel
-- form
+- containers<br>
+- cards<br>
+- navbar<br>
+- caroulsel<br>
+- form<br>
 </ul>
 <p class="has-line-data" data-line-start="14" data-line-end="15">
 <h2 class="code-line" data-line-start=16 data-line-end=17 ><a id="Links_16"></a>Links</h2>
