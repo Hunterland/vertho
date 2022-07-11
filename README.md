@@ -14,7 +14,7 @@
 - containers<br>
 - cards<br>
 - navbar<br>
-- caroulsel<br>
+- carousel<br>
 - form<br>
 </ul>
 <p class="has-line-data" data-line-start="14" data-line-end="15">
