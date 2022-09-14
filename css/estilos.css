@@ -48,8 +48,9 @@ a.nav-link:hover::after {
 }
 
 /* SESSÃO DE APRESENTAÇAO */
+
 .carousel-caption {
-    bottom: 38% !important;
+    margin: auto; 
 }
 
 .carousel-caption h1 {
@@ -406,39 +407,42 @@ footer {
 
 /* RESPONSIVIDADE */
 
+/* SESSÃO DE HEADER*/
+
+
 
 /* SESSÃO DE CONTATO */
 
 
-        @media (max-width:868px) {
-            .container-contact .img-box {
-                display: none;
-            }
+@media (max-width:868px) {
+    .container-contact .img-box {
+        display: none;
+    }
 
-            .container-contact .content-box {
-                width: 100%;
-            }
+    .container-contact .content-box {
+        width: 100%;
+    }
 
-            .container-contact .content-box .form-box {
-                width: 100%;
-                padding: 0;
-                background: white;
-                margin: 50px;
-                height: 100%;
-            }
+    .container-contact .content-box .form-box {
+        width: 100%;
+        padding: 0;
+        background: white;
+        margin: 50px;
+        height: 100%;
+    }
 
-            .container-contact .content-box .form-box h3 {
-                margin: 30px 0 10px;
-            }
-        }
+    .container-contact .content-box .form-box h3 {
+        margin: 30px 0 10px;
+    }
+}
 
-        @media (max-width:450px) {
-            .container-contact .content-box .form-box .remember {
-                flex-wrap: wrap;
-            }
+@media (max-width:450px) {
+    .container-contact .content-box .form-box .remember {
+        flex-wrap: wrap;
+    }
 
-            .container-contact .content-box .form-box .remember a {
-                margin-top: 20px;
-            }
+    .container-contact .content-box .form-box .remember a {
+        margin-top: 20px;
+    }
 
-        }
+}
