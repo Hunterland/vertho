@@ -384,7 +384,7 @@ a.nav-link:hover::after {
 
 /* SESSÃO DE FOOTER */
 footer {
-    height: 10%;
+    height: auto;
     background: #002D6C;
     color: white;
 }
@@ -408,6 +408,7 @@ footer {
 
 /* SESSÃO DE CONTATO */
 
+
 @media (max-width:868px) {
     .container-contact .img-box {
         display: none;
@@ -419,9 +420,10 @@ footer {
 
     .container-contact .content-box .form-box {
         width: 100%;
-        padding: 40px;
+        padding: 0;
         background: white;
         margin: 50px;
+        height: 100%;
     }
 
     .container-contact .content-box .form-box h3 {
